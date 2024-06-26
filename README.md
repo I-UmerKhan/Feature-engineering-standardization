@@ -1,1 +1,2 @@
 # Feature-engineering-standardization
+I checked the effect of standardization on my data and implemented it using the StandardScaler from sklearn. Standardization is crucial for ensuring that all features contribute equally to analyses like clustering and regression. By scaling my data with StandardScaler, I transformed it to have a mean of zero and a standard deviation of one, effectively normalizing the range of features and enhancing the performance of machine learning algorithms that are sensitive to the scale of input data.
